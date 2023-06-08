@@ -1,21 +1,20 @@
 # Movie Web App
 
 This is a Shopping App built in [ReactJS](http://facebook.github.io/react/index.html).
-It uses faker.js 
-(https://www.themoviedb.org/documentation/api) to display data.
+It uses faker.js to display data.
 
 ![](/print_screen/products-demo.png?raw=true)
 ![](/print_screen/cart-demo.png?raw=true)
 
 ## Live Demo
-[TMDb Movie App] (https://bkwasecki.github.io/shop_project/)
+[Shopping APP] (https://bkwasecki.github.io/shop_project/)
 
 ## Features
 
-* List popular movies and actors
-* Search movies by title
-* Movies slider on the main page
-* View detail movie info including poster, casts, and rating
+* List of products sorted in order by filters and pagination 
+* Search products by name
+* Add amount of the products in cart depending how many products are in stock
+* Double check your cart by hovering over the cart icon
 
 ## Technical Notes
 
