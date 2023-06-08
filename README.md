@@ -3,8 +3,8 @@
 This is a Shopping App built in [ReactJS](http://facebook.github.io/react/index.html).
 It uses faker.js to display data.
 
-![](/print_screen/products-demo.png?raw=true)
-![](/print_screen/cart-demo.png?raw=true)
+![](/print_screen/products_demo.png?raw=true)
+![](/print_screen/cart_demo.png?raw=true)
 
 ## Live Demo
 [Shopping APP] (https://bkwasecki.github.io/shop_project/)
