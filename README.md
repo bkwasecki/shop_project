@@ -1,4 +1,4 @@
-# Movie Web App
+# Shopping App
 
 This is a Shopping App built in [ReactJS](http://facebook.github.io/react/index.html).
 It uses faker.js to display data.
