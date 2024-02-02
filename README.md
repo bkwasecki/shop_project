@@ -13,7 +13,7 @@ It uses faker.js to display data.
 
 * List of products sorted in order by filters and pagination 
 * Search products by name
-* Add amount of the products in cart depending how many products are in stock
+* Add amount of the products in the cart depending how many products are in stock
 * Double check your cart by hovering over the cart icon
 
 ## Technical Notes
